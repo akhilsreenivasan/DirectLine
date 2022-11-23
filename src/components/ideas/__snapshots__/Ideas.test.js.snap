@@ -1,0 +1,178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`submit employee id Test Initial Rendering With Data 1`] = `
+<div>
+  <div>
+    <h2>
+      All Challenges
+    </h2>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+      data-testid="toggle-challenges"
+      style="margin-top: 15px;"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        View My Challenges
+      </span>
+    </button>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+      disabled=""
+      style="margin-top: 15px; margin-left: 15px;"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        SortBy Date (ASC)
+      </span>
+    </button>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+      disabled=""
+      style="margin-top: 15px; margin-left: 15px;"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        SortBy Vote (ASC)
+      </span>
+    </button>
+    <p
+      style="text-align: center; margin-top: 90px;"
+    >
+      No Challenges Available
+    </p>
+    <div
+      class="challenge"
+    />
+  </div>
+</div>
+`;
+
+exports[`submit employee id Test Initial Rendering Without Data 1`] = `
+<div>
+  <div>
+    <h2>
+      All Challenges
+    </h2>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+      data-testid="toggle-challenges"
+      style="margin-top: 15px;"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        View My Challenges
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+      disabled=""
+      style="margin-top: 15px; margin-left: 15px;"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        SortBy Date (ASC)
+      </span>
+    </button>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+      disabled=""
+      style="margin-top: 15px; margin-left: 15px;"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        SortBy Vote (ASC)
+      </span>
+    </button>
+    <p
+      style="text-align: center; margin-top: 90px;"
+    >
+      No Challenges Available
+    </p>
+    <div
+      class="challenge"
+    />
+  </div>
+</div>
+`;
+
+exports[`submit employee id Toggle changes button 1`] = `
+<div>
+  <div>
+    <h2>
+      My Challenges
+    </h2>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+      data-testid="toggle-challenges"
+      style="margin-top: 15px;"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        View All Challenges
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+      disabled=""
+      style="margin-top: 15px; margin-left: 15px;"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        SortBy Date (ASC)
+      </span>
+    </button>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+      disabled=""
+      style="margin-top: 15px; margin-left: 15px;"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        SortBy Vote (ASC)
+      </span>
+    </button>
+    <p
+      style="text-align: center; margin-top: 90px;"
+    >
+      No Challenges Available
+    </p>
+    <div
+      class="challenge"
+    />
+  </div>
+</div>
+`;
